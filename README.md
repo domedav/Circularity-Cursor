@@ -1,7 +1,7 @@
 # Circularity-Cursor
 #### Cursorpack for linux desktops, simple, flat, and awesome to look at!
 
-*Are you bored of the same looking cursors on your desktop?*
+*Are you bored of the oldschool looking cursors on your desktop?*
 *Look no further, this pack is for you!*
 *And its looks? You will love it!*
 ---
