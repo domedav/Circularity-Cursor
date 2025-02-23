@@ -1,3 +1,4 @@
+# Very basic, good for its purpose
 name = input("icon name: ")
 
 f = open(f"{name}.cursor", "w")
@@ -10,4 +11,4 @@ f.write(f"24 12 12 {name}24.png 50\n")
 f.close()
 
 print(f"Use:\n\txcursorgen {name}.cursor {name}")
-print(f"Then:\n\tsudo cp {name} /usr/share/icons/Adwaita-Custom-Icons/cursors")
+print(f"Then:\n\tsudo cp {name} /usr/share/icons/Circularity-Cursor/cursors")
