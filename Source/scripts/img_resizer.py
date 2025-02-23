@@ -1,3 +1,5 @@
+# Very basic, for simple task
+
 from PIL import Image
 
 name = input("filename: ")
