@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="96"
+   height="96"
+   viewBox="0 0 96 96"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="arrow24.png"
+   inkscape:export-xdpi="24"
+   inkscape:export-ydpi="24"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="move.svg"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     inkscape:zoom="0.51531691"
+     inkscape:cx="-389.08097"
+     inkscape:cy="315.33994"
+     inkscape:window-width="2560"
+     inkscape:window-height="1403"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" /><defs
+     id="defs1" /><g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"><path
+       id="use7"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:16;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 16.089961,37.848517 c -1.974153,6.188255 -2.080765,12.82451 -0.354935,19.068405 2.928561,-3.350446 7.23403,-5.463507 12.053962,-5.463504 8.864,-10e-7 15.999672,7.135671 15.999672,15.999671 0,5.046351 -2.313508,9.531659 -5.941354,12.459996 6.188149,1.974152 12.82448,2.080764 19.068405,0.354934 -3.350446,-2.928561 -5.463506,-7.234031 -5.463505,-12.053962 -10e-7,-8.864 7.135671,-15.999672 15.999672,-15.999672 5.046351,0 9.531659,2.313509 12.459995,5.941355 1.974152,-6.18815 2.080765,-12.824481 0.354935,-19.068405 -2.928561,3.350446 -7.234032,5.463505 -12.053962,5.463504 -8.864,10e-7 -15.999672,-7.135671 -15.999672,-15.999672 0,-5.046351 2.313508,-9.531658 5.941354,-12.459995 -6.191698,-1.972951 -12.834092,-2.097974 -19.082215,-0.365983 3.358165,2.928776 5.477315,7.238702 5.477315,12.06501 0,8.864 -7.135671,15.999672 -15.999672,15.999672 -5.046351,0 -9.531659,-2.313508 -12.459995,-5.941354 z" /></g></svg>
