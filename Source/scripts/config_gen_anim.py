@@ -1,3 +1,5 @@
+# Very basic, good for its purpose
+
 name = input("icon name: ")
 
 f = open(f"{name}.animated.cursor", "w")
@@ -45,4 +47,4 @@ while x < 60:
 f.close()
 
 print(f"Use:\n\txcursorgen {name}.animated.cursor {name}")
-print(f"Then:\n\tsudo cp {name} /usr/share/icons/Adwaita-Custom-Icons/cursors")
+print(f"Then:\n\tsudo cp {name} /usr/share/icons/Circularity-Cursor/cursors")
